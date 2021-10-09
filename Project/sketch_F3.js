@@ -56,13 +56,13 @@ collect_drivernames();
   fill(0);
   textSize(18);
   //year
-  text("Year:", 300, 500+170);
+  text("Year:", 300, 500+210);
   yrinput = createInput('current');
-  yrinput.position(380, 500+155);
+  yrinput.position(380, 500+195);
   //round
-  text("Round:", 300, 500+210);
+  text("Round:", 300, 500+250);
   rdinput = createInput('1');
-  rdinput.position(380, 500+195);
+  rdinput.position(380, 500+235);
 
   button = createButton('GO');
   button.position(rdinput.x + rdinput.width, 500+195);
@@ -236,8 +236,8 @@ newurl = Xurl.replace('2021', select_year);
 function drawchart()
 {let graphlaptime_arr=[];
   background(255);
-       text("Year:", 300, 500+170);
-  text("Round:", 300, 500+210);
+       text("Year:", 300, 500+210);
+  text("Round:", 300, 500+250);
  
   for(c=0;c<totaldrivers;c++)
   {
@@ -265,6 +265,7 @@ function drawchart()
     
     textSize(24);
     text(racename,20,520+155);//print race name
+    text("Driver's Median Laptimes",300,520+155);
     textSize(18);
 
 //print("Worst Median Laptime:"+graphlaptime_arr[0] );

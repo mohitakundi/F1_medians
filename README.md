@@ -1,19 +1,17 @@
-# F1_medians
+## A Simple visualisation of formula 1 median lap times of drivers for any race of the season and the seasons before !
 
-A SIMPLE VISUALISATION OF FORMULA 1 MEDIAN LAP TIMES OF DRIVERS FOR ANY RACE OF THE SEASON AND THE SEASONS BEFORE !
+### WHY ? WHY NOT ?
 
-WHY ? WHY NOT ?
+### I mean surely we all had arguments of who was the faster driver regardless of who won right ?
 
-I MEAN SURELY WE ALL HAD ARGUMENTS OF WHO WAS THE FASTER DRIVER REGARDLESS OF WHO WON RIGHT ?
+## VISIT: https://mohitakundi.github.io/F1_medians/Project/index.html
 
-VISIT: https://mohitakundi.github.io/F1_medians/Project/index.html
+### STEP 1) ENTER THE YEAR
 
-STEP 1) ENTER THE YEAR
+### STEP 2) ENTER THE RACE NUMBER
 
-STEP 2) ENTER THE RACE NUMBER
+### STEP 3) CLICK GO !
 
-STEP 3) CLICK GO !
+### STEP 4) PROFIT !
 
-STEP 4) PROFIT !
-
-FOR FURTHER DOCUMENTATION, VISIT: https://srishtiarchive.com/formula-one-data-visualization-f4c5
+#### FOR FURTHER DOCUMENTATION, VISIT: https://srishtiarchive.com/formula-one-data-visualization-f4c5
